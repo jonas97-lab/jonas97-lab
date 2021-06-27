@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi there 👋! My name is Jonas and I'm new to the web development scene. At this moment I've picked up a thing or two on HTML & CSS and now I'm making my way in Javascript. I really enjoy learning front-end languages and frameworks like React.
+Hi there 👋! My name is Jonas and I'm new to the web development scene. At this moment I've picked up a thing or two on HTML & CSS and recently I have started to learn JavaScript. I really enjoy learning front-end languages and frameworks like React.
 
 - 🔭 I’m currently working as a front-end developer for a digital agency
 - 🌱 I’m currently learning React
