@@ -7,7 +7,6 @@ Hi there 👋! My name is Jonas and I'm new to the web development scene. At thi
 - 💬 Ask me anything about football
 - 📫 How to reach me: jonas.tesfay97@gmail.com
 - ⚡ Hobbies: fitness, watching football, motorcycling, playing drums, self-study & going out
-<br >
 
 ## Skills & Experience
 - 🔑 HTML, CSS & JS
@@ -16,7 +15,6 @@ Hi there 👋! My name is Jonas and I'm new to the web development scene. At thi
 - ⌚ Git Version Control
 - ❤️ NPM, Webpack, Parcel, Babel & Sass
 - 🛎️ HTTP, JSON & APIs
-<br >
 
 ## Let's Connect!
 [![Linkedin Badge](https://img.shields.io/badge/-Jonas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tesfay-963557173/) 
