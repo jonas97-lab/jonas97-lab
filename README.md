@@ -4,7 +4,7 @@ Hi there 👋! My name is Jonas and I'm new to the web development scene. At thi
 
 - 🔭 I’m currently working as a front-end developer for a digital agency
 - 🌱 I’m currently learning React
-- 💬 Ask me anything about how to make a career transition into web development
+- 💬 Ask me about how to make a career transition into web development
 - 📫 How to reach me: jonas.tesfay97@gmail.com
 - ⚡ Hobbies: fitness, motorcycling, playing drums, self-study & going out
 
