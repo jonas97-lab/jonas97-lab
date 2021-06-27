@@ -1,16 +1,22 @@
-### Hi there 👋
+## Introduction
 
+Hi there 👋! My name is Jonas and I'm new to the web development scene. At this moment I've picked up a thing or two on HTML & CSS and now I'm making my way in Javascript. I really enjoy learning front-end languages and frameworks like React.
 
-**jonas97-lab/jonas97-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a front-end developer for a digital agency
+- 🌱 I’m currently learning React
+- 💬 Ask me anything about football
+- 📫 How to reach me: jonas.tesfay97@gmail.com
+- ⚡ Hobbies: fitness, watching football, motorcycling, playing drums, self-study & going out
+<br >
 
-Here are some ideas to get you started:
+## Skills & Experience
+- 🔑 HTML, CSS & JS
+- ⚛ React
+- 💻 User Facing Experience
+- ⌚ Git Version Control
+- ❤️ NPM, Webpack, Parcel, Babel & Sass
+- 🛎️ HTTP, JSON & APIs
+<br >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## Let's Connect!
+[![Linkedin Badge](https://img.shields.io/badge/-Jonas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tesfay-963557173/) 
