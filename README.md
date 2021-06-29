@@ -17,7 +17,7 @@ Hi there 👋! My name is Jonas and I'm new to the web development scene. At thi
 - 🛎️ HTTP, JSON & APIs
 
 ## Website
-Make sure to check out my website =>
+Make sure to check out my website →
 
 ## Let's Connect!
 [![Linkedin Badge](https://img.shields.io/badge/-Jonas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tesfay-963557173/) 
